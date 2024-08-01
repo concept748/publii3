@@ -1,0 +1,97 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "District Website",
+    "description": "",
+    "home_page_url": "https://concept748.github.io/publii3",
+    "feed_url": "https://concept748.github.io/publii3/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Chris Federico"
+    },
+    "items": [
+        {
+            "id": "https://concept748.github.io/publii3/this-is-my-last-post.html",
+            "url": "https://concept748.github.io/publii3/this-is-my-last-post.html",
+            "title": "This is my Last Post.",
+            "summary": "<div class=\"post__toc\">\n<h3>Language</h3>\n<ul>\n<li> </li>\n<li><a href=\"#mcetoc_1i452q0nhe\">First Paragragh</a></li>\n<li><a href=\"#mcetoc_1i452q0nhf\">Second Paragragh</a></li>\n</ul>\n</div>\n<h1 id=\"mcetoc_1i452q0nhd\"></h1>\n<h1 id=\"mcetoc_1i452q0nhe\">First Paragragh</h1>\n<p><strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem <span style=\"color: #f1c40f;\">Ipsum has been the industry's</span> standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, 😀 into electronic typesetting, remaining essentially unchanged. <strong>It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</strong>.</p>\n",
+            "content_html": "<div class=\"post__toc\">\n<h3>Language</h3>\n<ul>\n<li> </li>\n<li><a href=\"#mcetoc_1i452q0nhe\">First Paragragh</a></li>\n<li><a href=\"#mcetoc_1i452q0nhf\">Second Paragragh</a></li>\n</ul>\n</div>\n<h1 id=\"mcetoc_1i452q0nhd\"></h1>\n<h1 id=\"mcetoc_1i452q0nhe\">First Paragragh</h1>\n<p><strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem <span style=\"color: #f1c40f;\">Ipsum has been the industry's</span> standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, 😀 into electronic typesetting, remaining essentially unchanged. <strong>It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</strong>.</p>\n\n<h1 id=\"mcetoc_1i452q0nhf\">Second Paragragh</h1>\n<p><strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem <span style=\"color: #f1c40f;\">Ipsum has been the industry's</span> standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, 😀 into electronic typesetting, remaining essentially unchanged. <strong>It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</strong>.</p>",
+            "author": {
+                "name": "Chris Federico"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-07-31T15:04:01-04:00",
+            "date_modified": "2024-07-31T15:04:49-04:00"
+        },
+        {
+            "id": "https://concept748.github.io/publii3/subject-11.html",
+            "url": "https://concept748.github.io/publii3/subject-11.html",
+            "title": "Subject 1.1",
+            "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin quis libero urna. Vivamus non augue massa. Integer nisi augue, tempor&hellip;",
+            "content_html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin quis libero urna. Vivamus non augue massa. Integer nisi augue, tempor sit amet tristique at, auctor ac risus. Maecenas ut massa vehicula, scelerisque lacus non, pulvinar libero. Vivamus tincidunt dignissim lobortis. Vestibulum malesuada porttitor metus ut facilisis. Aenean tristique placerat dui, vitae hendrerit odio fringilla vitae. Sed dapibus ex in leo iaculis venenatis. Duis vehicula mollis leo id vehicula. Aenean malesuada nunc a velit finibus, faucibus auctor quam pharetra.</p>\n<p>Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum mattis, tortor in tincidunt aliquam, nulla neque ullamcorper enim, id sagittis mi augue nec justo. Sed tincidunt augue ac ante eleifend tristique. Sed vel orci sodales, convallis nibh nec, ultricies ipsum. Quisque viverra imperdiet leo sit amet mattis. Phasellus cursus auctor dui, at eleifend erat accumsan at. Mauris maximus consectetur metus sit amet rhoncus. Curabitur cursus nec urna a elementum. Mauris pharetra elit orci, id tincidunt mauris suscipit eu.</p>\n<p>Morbi pharetra velit eu finibus eleifend. Ut porta est eu nulla tristique luctus. Morbi et malesuada felis, in aliquam arcu. Morbi quis ultrices augue. Donec semper lectus sit amet nulla ultrices, ac iaculis velit tempor. Suspendisse porta est eget tortor fringilla convallis. Nam sollicitudin ipsum sed lectus pharetra ultrices. Etiam sagittis eu neque a vestibulum. Mauris a sagittis nulla. Morbi quis aliquet sapien. Duis id vulputate ipsum. Quisque at metus lacus. Donec posuere finibus justo, at suscipit mi vehicula semper.</p>\n<p>Vivamus convallis suscipit mauris at bibendum. Sed vehicula arcu nec sem viverra, sed commodo quam hendrerit. Quisque lobortis risus quis mauris vulputate, vel fermentum neque ultricies. Curabitur sodales suscipit lectus quis pretium. Aenean laoreet sit amet tortor ut sollicitudin. In sit amet arcu ut nisi ornare consectetur. Duis feugiat diam urna, in tincidunt nisi fermentum at. Donec elementum nisi nec vehicula lobortis. Proin leo nulla, viverra eu faucibus at, congue sed metus. Integer commodo suscipit nisi vitae molestie. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>",
+            "author": {
+                "name": "Chris Federico"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-07-18T12:50:14-04:00",
+            "date_modified": "2024-07-18T12:51:16-04:00"
+        },
+        {
+            "id": "https://concept748.github.io/publii3/subject-10.html",
+            "url": "https://concept748.github.io/publii3/subject-10.html",
+            "title": "Subject 1.0",
+            "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin quis libero urna. Vivamus non augue massa. Integer nisi augue, tempor&hellip;",
+            "content_html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin quis libero urna. Vivamus non augue massa. Integer nisi augue, tempor sit amet tristique at, auctor ac risus. Maecenas ut massa vehicula, scelerisque lacus non, pulvinar libero. Vivamus tincidunt dignissim lobortis. Vestibulum malesuada porttitor metus ut facilisis. Aenean tristique placerat dui, vitae hendrerit odio fringilla vitae. Sed dapibus ex in leo iaculis venenatis. Duis vehicula mollis leo id vehicula. Aenean malesuada nunc a velit finibus, faucibus auctor quam pharetra.</p>\n<p>Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum mattis, tortor in tincidunt aliquam, nulla neque ullamcorper enim, id sagittis mi augue nec justo. Sed tincidunt augue ac ante eleifend tristique. Sed vel orci sodales, convallis nibh nec, ultricies ipsum. Quisque viverra imperdiet leo sit amet mattis. Phasellus cursus auctor dui, at eleifend erat accumsan at. Mauris maximus consectetur metus sit amet rhoncus. Curabitur cursus nec urna a elementum. Mauris pharetra elit orci, id tincidunt mauris suscipit eu.</p>\n<p>Morbi pharetra velit eu finibus eleifend. Ut porta est eu nulla tristique luctus. Morbi et malesuada felis, in aliquam arcu. Morbi quis ultrices augue. Donec semper lectus sit amet nulla ultrices, ac iaculis velit tempor. Suspendisse porta est eget tortor fringilla convallis. Nam sollicitudin ipsum sed lectus pharetra ultrices. Etiam sagittis eu neque a vestibulum. Mauris a sagittis nulla. Morbi quis aliquet sapien. Duis id vulputate ipsum. Quisque at metus lacus. Donec posuere finibus justo, at suscipit mi vehicula semper.</p>\n<p>Vivamus convallis suscipit mauris at bibendum. Sed vehicula arcu nec sem viverra, sed commodo quam hendrerit. Quisque lobortis risus quis mauris vulputate, vel fermentum neque ultricies. Curabitur sodales suscipit lectus quis pretium. Aenean laoreet sit amet tortor ut sollicitudin. In sit amet arcu ut nisi ornare consectetur. Duis feugiat diam urna, in tincidunt nisi fermentum at. Donec elementum nisi nec vehicula lobortis. Proin leo nulla, viverra eu faucibus at, congue sed metus. Integer commodo suscipit nisi vitae molestie. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>",
+            "author": {
+                "name": "Chris Federico"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-07-18T12:50:03-04:00",
+            "date_modified": "2024-07-18T12:50:03-04:00"
+        },
+        {
+            "id": "https://concept748.github.io/publii3/my-third-post.html",
+            "url": "https://concept748.github.io/publii3/my-third-post.html",
+            "title": "My third Post",
+            "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin quis libero urna. Vivamus non augue massa. Integer nisi augue, tempor&hellip;",
+            "content_html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin quis libero urna. Vivamus non augue massa. Integer nisi augue, tempor sit amet tristique at, auctor ac risus. Maecenas ut massa vehicula, scelerisque lacus non, pulvinar libero. Vivamus tincidunt dignissim lobortis. Vestibulum malesuada porttitor metus ut facilisis. Aenean tristique placerat dui, vitae hendrerit odio fringilla vitae. Sed dapibus ex in leo iaculis venenatis. Duis vehicula mollis leo id vehicula. Aenean malesuada nunc a velit finibus, faucibus auctor quam pharetra.</p>\n<p>Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum mattis, tortor in tincidunt aliquam, nulla neque ullamcorper enim, id sagittis mi augue nec justo. Sed tincidunt augue ac ante eleifend tristique. Sed vel orci sodales, convallis nibh nec, ultricies ipsum. Quisque viverra imperdiet leo sit amet mattis. Phasellus cursus auctor dui, at eleifend erat accumsan at. Mauris maximus consectetur metus sit amet rhoncus. Curabitur cursus nec urna a elementum. Mauris pharetra elit orci, id tincidunt mauris suscipit eu.</p>\n<p>Morbi pharetra velit eu finibus eleifend. Ut porta est eu nulla tristique luctus. Morbi et malesuada felis, in aliquam arcu. Morbi quis ultrices augue. Donec semper lectus sit amet nulla ultrices, ac iaculis velit tempor. Suspendisse porta est eget tortor fringilla convallis. Nam sollicitudin ipsum sed lectus pharetra ultrices. Etiam sagittis eu neque a vestibulum. Mauris a sagittis nulla. Morbi quis aliquet sapien. Duis id vulputate ipsum. Quisque at metus lacus. Donec posuere finibus justo, at suscipit mi vehicula semper.</p>\n<p>Vivamus convallis suscipit mauris at bibendum. Sed vehicula arcu nec sem viverra, sed commodo quam hendrerit. Quisque lobortis risus quis mauris vulputate, vel fermentum neque ultricies. Curabitur sodales suscipit lectus quis pretium. Aenean laoreet sit amet tortor ut sollicitudin. In sit amet arcu ut nisi ornare consectetur. Duis feugiat diam urna, in tincidunt nisi fermentum at. Donec elementum nisi nec vehicula lobortis. Proin leo nulla, viverra eu faucibus at, congue sed metus. Integer commodo suscipit nisi vitae molestie. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>",
+            "author": {
+                "name": "Chris Federico"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-07-18T12:20:49-04:00",
+            "date_modified": "2024-07-18T12:20:49-04:00"
+        },
+        {
+            "id": "https://concept748.github.io/publii3/my-second-post.html",
+            "url": "https://concept748.github.io/publii3/my-second-post.html",
+            "title": "My Second Post",
+            "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin quis libero urna. Vivamus non augue massa. Integer nisi augue, tempor&hellip;",
+            "content_html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin quis libero urna. Vivamus non augue massa. Integer nisi augue, tempor sit amet tristique at, auctor ac risus. Maecenas ut massa vehicula, scelerisque lacus non, pulvinar libero. Vivamus tincidunt dignissim lobortis. Vestibulum malesuada porttitor metus ut facilisis. Aenean tristique placerat dui, vitae hendrerit odio fringilla vitae. Sed dapibus ex in leo iaculis venenatis. Duis vehicula mollis leo id vehicula. Aenean malesuada nunc a velit finibus, faucibus auctor quam pharetra.</p>\n<p>Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum mattis, tortor in tincidunt aliquam, nulla neque ullamcorper enim, id sagittis mi augue nec justo. Sed tincidunt augue ac ante eleifend tristique. Sed vel orci sodales, convallis nibh nec, ultricies ipsum. Quisque viverra imperdiet leo sit amet mattis. Phasellus cursus auctor dui, at eleifend erat accumsan at. Mauris maximus consectetur metus sit amet rhoncus. Curabitur cursus nec urna a elementum. Mauris pharetra elit orci, id tincidunt mauris suscipit eu.</p>\n<p>Morbi pharetra velit eu finibus eleifend. Ut porta est eu nulla tristique luctus. Morbi et malesuada felis, in aliquam arcu. Morbi quis ultrices augue. Donec semper lectus sit amet nulla ultrices, ac iaculis velit tempor. Suspendisse porta est eget tortor fringilla convallis. Nam sollicitudin ipsum sed lectus pharetra ultrices. Etiam sagittis eu neque a vestibulum. Mauris a sagittis nulla. Morbi quis aliquet sapien. Duis id vulputate ipsum. Quisque at metus lacus. Donec posuere finibus justo, at suscipit mi vehicula semper.</p>\n<p>Vivamus convallis suscipit mauris at bibendum. Sed vehicula arcu nec sem viverra, sed commodo quam hendrerit. Quisque lobortis risus quis mauris vulputate, vel fermentum neque ultricies. Curabitur sodales suscipit lectus quis pretium. Aenean laoreet sit amet tortor ut sollicitudin. In sit amet arcu ut nisi ornare consectetur. Duis feugiat diam urna, in tincidunt nisi fermentum at. Donec elementum nisi nec vehicula lobortis. Proin leo nulla, viverra eu faucibus at, congue sed metus. Integer commodo suscipit nisi vitae molestie. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>",
+            "author": {
+                "name": "Chris Federico"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-07-18T12:20:37-04:00",
+            "date_modified": "2024-07-18T12:20:37-04:00"
+        },
+        {
+            "id": "https://concept748.github.io/publii3/title-for-our-first-story.html",
+            "url": "https://concept748.github.io/publii3/title-for-our-first-story.html",
+            "title": "Title for our First Story",
+            "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin quis libero urna. Vivamus non augue massa. Integer nisi augue, tempor&hellip;",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://concept748.github.io/publii3/media/posts/1/gallery/DURWELL-Cool_Zen-250g-FRONT.png\" data-size=\"720x898\"><img loading=\"lazy\" src=\"https://concept748.github.io/publii3/media/posts/1/gallery/DURWELL-Cool_Zen-250g-FRONT-thumbnail.png\" alt=\"Image 1\" width=\"720\" height=\"898\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://concept748.github.io/publii3/media/posts/1/gallery/DURWELL-Cool_Zen-250g-LEFT-SIDE.png\" data-size=\"720x898\"><img loading=\"lazy\" src=\"https://concept748.github.io/publii3/media/posts/1/gallery/DURWELL-Cool_Zen-250g-LEFT-SIDE-thumbnail.png\" alt=\"Image 2\" width=\"720\" height=\"898\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://concept748.github.io/publii3/media/posts/1/gallery/DURWELL-Cool_Zen-250g-RIGHT-SIDE.png\" data-size=\"720x898\"><img loading=\"lazy\" src=\"https://concept748.github.io/publii3/media/posts/1/gallery/DURWELL-Cool_Zen-250g-RIGHT-SIDE-thumbnail.png\" alt=\"Image 3\" width=\"720\" height=\"898\"></a></figure>\n</div></div>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin quis libero urna. Vivamus non augue massa. Integer nisi augue, tempor sit amet tristique at, auctor ac risus. Maecenas ut massa vehicula, scelerisque lacus non, pulvinar libero. Vivamus tincidunt dignissim lobortis. Vestibulum malesuada porttitor metus ut facilisis. Aenean tristique placerat dui, vitae hendrerit odio fringilla vitae. Sed dapibus ex in leo iaculis venenatis. Duis vehicula mollis leo id vehicula. Aenean malesuada nunc a velit finibus, faucibus auctor quam pharetra.</p>\n<p>Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum mattis, tortor in tincidunt aliquam, nulla neque ullamcorper enim, id sagittis mi augue nec justo. Sed tincidunt augue ac ante eleifend tristique. Sed vel orci sodales, convallis nibh nec, ultricies ipsum. Quisque viverra imperdiet leo sit amet mattis. Phasellus cursus auctor dui, at eleifend erat accumsan at. Mauris maximus consectetur metus sit amet rhoncus. Curabitur cursus nec urna a elementum. Mauris pharetra elit orci, id tincidunt mauris suscipit eu.</p>\n<p>Morbi pharetra velit eu finibus eleifend. Ut porta est eu nulla tristique luctus. Morbi et malesuada felis, in aliquam arcu. Morbi quis ultrices augue. Donec semper lectus sit amet nulla ultrices, ac iaculis velit tempor. Suspendisse porta est eget tortor fringilla convallis. Nam sollicitudin ipsum sed lectus pharetra ultrices. Etiam sagittis eu neque a vestibulum. Mauris a sagittis nulla. Morbi quis aliquet sapien. Duis id vulputate ipsum. Quisque at metus lacus. Donec posuere finibus justo, at suscipit mi vehicula semper.</p>\n<p>Vivamus convallis suscipit mauris at bibendum. Sed vehicula arcu nec sem viverra, sed commodo quam hendrerit. Quisque lobortis risus quis mauris vulputate, vel fermentum neque ultricies. Curabitur sodales suscipit lectus quis pretium. Aenean laoreet sit amet tortor ut sollicitudin. In sit amet arcu ut nisi ornare consectetur. Duis feugiat diam urna, in tincidunt nisi fermentum at. Donec elementum nisi nec vehicula lobortis. Proin leo nulla, viverra eu faucibus at, congue sed metus. Integer commodo suscipit nisi vitae molestie. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>",
+            "author": {
+                "name": "Chris Federico"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-07-18T10:40:35-04:00",
+            "date_modified": "2024-07-18T10:57:04-04:00"
+        }
+    ]
+}
