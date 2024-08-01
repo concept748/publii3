@@ -12,7 +12,7 @@
         {
             "id": "https://concept748.github.io/publii3/this-is-my-last-post.html",
             "url": "https://concept748.github.io/publii3/this-is-my-last-post.html",
-            "title": "This is my Last Post.",
+            "title": "Want to change my title!",
             "summary": "<div class=\"post__toc\">\n<h3>Language</h3>\n<ul>\n<li> </li>\n<li><a href=\"#mcetoc_1i452q0nhe\">First Paragragh</a></li>\n<li><a href=\"#mcetoc_1i452q0nhf\">Second Paragragh</a></li>\n</ul>\n</div>\n<h1 id=\"mcetoc_1i452q0nhd\"></h1>\n<h1 id=\"mcetoc_1i452q0nhe\">First Paragragh</h1>\n<p><strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem <span style=\"color: #f1c40f;\">Ipsum has been the industry's</span> standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, 😀 into electronic typesetting, remaining essentially unchanged. <strong>It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</strong>.</p>\n",
             "content_html": "<div class=\"post__toc\">\n<h3>Language</h3>\n<ul>\n<li> </li>\n<li><a href=\"#mcetoc_1i452q0nhe\">First Paragragh</a></li>\n<li><a href=\"#mcetoc_1i452q0nhf\">Second Paragragh</a></li>\n</ul>\n</div>\n<h1 id=\"mcetoc_1i452q0nhd\"></h1>\n<h1 id=\"mcetoc_1i452q0nhe\">First Paragragh</h1>\n<p><strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem <span style=\"color: #f1c40f;\">Ipsum has been the industry's</span> standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, 😀 into electronic typesetting, remaining essentially unchanged. <strong>It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</strong>.</p>\n\n<h1 id=\"mcetoc_1i452q0nhf\">Second Paragragh</h1>\n<p><strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem <span style=\"color: #f1c40f;\">Ipsum has been the industry's</span> standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, 😀 into electronic typesetting, remaining essentially unchanged. <strong>It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</strong>.</p>",
             "author": {
@@ -21,7 +21,7 @@
             "tags": [
             ],
             "date_published": "2024-07-31T15:04:01-04:00",
-            "date_modified": "2024-07-31T15:04:49-04:00"
+            "date_modified": "2024-08-01T12:24:01-04:00"
         },
         {
             "id": "https://concept748.github.io/publii3/subject-11.html",
