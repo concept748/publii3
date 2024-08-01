@@ -1,86 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://www.yoodel-dev.com/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://concept748.github.io/publii3/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://www.yoodel-dev.com/</loc>
+<loc>https://concept748.github.io/publii3/</loc>
 </url>
 <url>
-<loc>https://www.yoodel-dev.com/my-second-post.html</loc>
+<loc>https://concept748.github.io/publii3/my-second-post.html</loc>
 <lastmod>2024-07-18T12:20:37-04:00</lastmod>
 </url>
 <url>
-<loc>https://www.yoodel-dev.com/my-third-post.html</loc>
+<loc>https://concept748.github.io/publii3/my-third-post.html</loc>
 <lastmod>2024-07-18T12:20:49-04:00</lastmod>
 </url>
 <url>
-<loc>https://www.yoodel-dev.com/post-2.html</loc>
+<loc>https://concept748.github.io/publii3/post-2.html</loc>
 <lastmod>2024-08-01T14:06:18-04:00</lastmod>
 <image:image>
-<image:loc>https://www.yoodel-dev.com/media/posts/8/gallery/Directus-Screenshot-2024-04-09-112739-thumbnail.png</image:loc>
+<image:loc>https://concept748.github.io/publii3/media/posts/8/gallery/Directus-Screenshot-2024-04-09-112739-thumbnail.png</image:loc>
 <image:title><![CDATA[Image 1]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://www.yoodel-dev.com/media/posts/8/gallery/Screenshot-2024-03-11-135219-thumbnail.png</image:loc>
+<image:loc>https://concept748.github.io/publii3/media/posts/8/gallery/Screenshot-2024-03-11-135219-thumbnail.png</image:loc>
 <image:title><![CDATA[Image 2]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://www.yoodel-dev.com/media/posts/8/gallery/Screenshot-2024-03-11-135318-thumbnail.png</image:loc>
+<image:loc>https://concept748.github.io/publii3/media/posts/8/gallery/Screenshot-2024-03-11-135318-thumbnail.png</image:loc>
 <image:title><![CDATA[Image 3]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://www.yoodel-dev.com/post-3.html</loc>
+<loc>https://concept748.github.io/publii3/post-3.html</loc>
 <lastmod>2024-08-01T14:09:58-04:00</lastmod>
 <image:image>
-<image:loc>https://www.yoodel-dev.com/media/posts/9/Directus-Screenshot-2024-04-09-112739.png</image:loc>
+<image:loc>https://concept748.github.io/publii3/media/posts/9/Directus-Screenshot-2024-04-09-112739.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://www.yoodel-dev.com/subject-10.html</loc>
+<loc>https://concept748.github.io/publii3/subject-10.html</loc>
 <lastmod>2024-07-18T12:50:03-04:00</lastmod>
 </url>
 <url>
-<loc>https://www.yoodel-dev.com/subject-11.html</loc>
+<loc>https://concept748.github.io/publii3/subject-11.html</loc>
 <lastmod>2024-07-18T12:51:16-04:00</lastmod>
 </url>
 <url>
-<loc>https://www.yoodel-dev.com/this-is-my-last-post.html</loc>
+<loc>https://concept748.github.io/publii3/this-is-my-last-post.html</loc>
 <lastmod>2024-08-01T12:35:28-04:00</lastmod>
 <image:image>
-<image:loc>https://www.yoodel-dev.com/media/posts/7/gallery/Directus-Screenshot-2024-04-09-112739-thumbnail.png</image:loc>
+<image:loc>https://concept748.github.io/publii3/media/posts/7/gallery/Directus-Screenshot-2024-04-09-112739-thumbnail.png</image:loc>
 <image:title><![CDATA[Image 1]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://www.yoodel-dev.com/media/posts/7/gallery/Screenshot-2024-03-11-135219-thumbnail.png</image:loc>
+<image:loc>https://concept748.github.io/publii3/media/posts/7/gallery/Screenshot-2024-03-11-135219-thumbnail.png</image:loc>
 <image:title><![CDATA[Image 2]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://www.yoodel-dev.com/media/posts/7/gallery/Screenshot-2024-03-11-135318-thumbnail.png</image:loc>
+<image:loc>https://concept748.github.io/publii3/media/posts/7/gallery/Screenshot-2024-03-11-135318-thumbnail.png</image:loc>
 <image:title><![CDATA[Image 3]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://www.yoodel-dev.com/media/posts/7/gallery/Screenshot-2024-03-11-135403-thumbnail.png</image:loc>
+<image:loc>https://concept748.github.io/publii3/media/posts/7/gallery/Screenshot-2024-03-11-135403-thumbnail.png</image:loc>
 <image:title><![CDATA[Image 4]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://www.yoodel-dev.com/media/posts/7/gallery/Screenshot-2024-03-11-135504-thumbnail.png</image:loc>
+<image:loc>https://concept748.github.io/publii3/media/posts/7/gallery/Screenshot-2024-03-11-135504-thumbnail.png</image:loc>
 <image:title><![CDATA[Image 5]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://www.yoodel-dev.com/title-for-our-first-story.html</loc>
+<loc>https://concept748.github.io/publii3/title-for-our-first-story.html</loc>
 <lastmod>2024-07-18T10:57:04-04:00</lastmod>
 <image:image>
-<image:loc>https://www.yoodel-dev.com/media/posts/1/gallery/DURWELL-Cool_Zen-250g-FRONT-thumbnail.png</image:loc>
+<image:loc>https://concept748.github.io/publii3/media/posts/1/gallery/DURWELL-Cool_Zen-250g-FRONT-thumbnail.png</image:loc>
 <image:title><![CDATA[Image 1]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://www.yoodel-dev.com/media/posts/1/gallery/DURWELL-Cool_Zen-250g-LEFT-SIDE-thumbnail.png</image:loc>
+<image:loc>https://concept748.github.io/publii3/media/posts/1/gallery/DURWELL-Cool_Zen-250g-LEFT-SIDE-thumbnail.png</image:loc>
 <image:title><![CDATA[Image 2]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://www.yoodel-dev.com/media/posts/1/gallery/DURWELL-Cool_Zen-250g-RIGHT-SIDE-thumbnail.png</image:loc>
+<image:loc>https://concept748.github.io/publii3/media/posts/1/gallery/DURWELL-Cool_Zen-250g-RIGHT-SIDE-thumbnail.png</image:loc>
 <image:title><![CDATA[Image 3]]></image:title>
 </image:image>
 </url>
