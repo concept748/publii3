@@ -3,7 +3,7 @@
     <title>District Website</title>
     <link href="https://concept748.github.io/publii3/feed.xml" rel="self" />
     <link href="https://concept748.github.io/publii3" />
-    <updated>2024-08-01T12:24:01-04:00</updated>
+    <updated>2024-08-01T12:27:33-04:00</updated>
     <author>
         <name>Chris Federico</name>
     </author>
@@ -50,6 +50,23 @@
 
 <h1 id="mcetoc_1i452q0nhf">Second Paragragh</h1>
 <p><strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem <span style="color: #f1c40f;">Ipsum has been the industry's</span> standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, 😀 into electronic typesetting, remaining essentially unchanged. <strong>It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</strong>.</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://concept748.github.io/publii3/media/posts/7/gallery/Directus-Screenshot-2024-04-09-112739.png" data-size="1147x613"><img loading="lazy" src="https://concept748.github.io/publii3/media/posts/7/gallery/Directus-Screenshot-2024-04-09-112739-thumbnail.png" alt="Image 1" width="768" height="410"></a>
+<figcaption>Great Image</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://concept748.github.io/publii3/media/posts/7/gallery/Screenshot-2024-03-11-135219.png" data-size="1204x1093"><img loading="lazy" src="https://concept748.github.io/publii3/media/posts/7/gallery/Screenshot-2024-03-11-135219-thumbnail.png" alt="Image 2" width="768" height="697"></a>
+<figcaption>Great Image</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://concept748.github.io/publii3/media/posts/7/gallery/Screenshot-2024-03-11-135318.png" data-size="1199x1121"><img loading="lazy" src="https://concept748.github.io/publii3/media/posts/7/gallery/Screenshot-2024-03-11-135318-thumbnail.png" alt="Image 3" width="768" height="718"></a>
+<figcaption>Great Image</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://concept748.github.io/publii3/media/posts/7/gallery/Screenshot-2024-03-11-135403.png" data-size="1214x1230"><img loading="lazy" src="https://concept748.github.io/publii3/media/posts/7/gallery/Screenshot-2024-03-11-135403-thumbnail.png" alt="Image 4" width="768" height="778"></a>
+<figcaption>Great Image</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://concept748.github.io/publii3/media/posts/7/gallery/Screenshot-2024-03-11-135504.png" data-size="1211x1157"><img loading="lazy" src="https://concept748.github.io/publii3/media/posts/7/gallery/Screenshot-2024-03-11-135504-thumbnail.png" alt="Image 5" width="768" height="734"></a>
+<figcaption>Great Image</figcaption>
+</figure>
+</div></div>
             ]]>
         </content>
     </entry>
