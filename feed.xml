@@ -3,14 +3,14 @@
     <title>District Website</title>
     <link href="https://concept748.github.io/publii3/feed.xml" rel="self" />
     <link href="https://concept748.github.io/publii3" />
-    <updated>2024-08-01T12:27:33-04:00</updated>
+    <updated>2024-08-01T12:35:28-04:00</updated>
     <author>
         <name>Chris Federico</name>
     </author>
     <id>https://concept748.github.io/publii3</id>
 
     <entry>
-        <title>Want to change my title!</title>
+        <title>Changing the Content on the Website</title>
         <author>
             <name>Chris Federico</name>
         </author>
@@ -21,11 +21,12 @@
             <summary>
                 <![CDATA[
                     <div class="post__toc">
-<h3>Language</h3>
+<h3>Table of Contents</h3>
 <ul>
 <li> </li>
 <li><a href="#mcetoc_1i452q0nhe">First Paragragh</a></li>
 <li><a href="#mcetoc_1i452q0nhf">Second Paragragh</a></li>
+<li><a href="#mcetoc_1i452q0nhf">Third Paragragh</a></li>
 </ul>
 </div>
 <h1 id="mcetoc_1i452q0nhd"></h1>
@@ -37,11 +38,12 @@
         <content type="html">
             <![CDATA[
                 <div class="post__toc">
-<h3>Language</h3>
+<h3>Table of Contents</h3>
 <ul>
 <li> </li>
 <li><a href="#mcetoc_1i452q0nhe">First Paragragh</a></li>
 <li><a href="#mcetoc_1i452q0nhf">Second Paragragh</a></li>
+<li><a href="#mcetoc_1i452q0nhf">Third Paragragh</a></li>
 </ul>
 </div>
 <h1 id="mcetoc_1i452q0nhd"></h1>
@@ -67,6 +69,8 @@
 <figcaption>Great Image</figcaption>
 </figure>
 </div></div>
+<h1 id="mcetoc_1i452q0nhf">Third Paragragh</h1>
+<p><strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem <span style="color: #f1c40f;">Ipsum has been the industry's</span> standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, 😀 into electronic typesetting, remaining essentially unchanged. <strong>It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</strong>.</p>
             ]]>
         </content>
     </entry>
